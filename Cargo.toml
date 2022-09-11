@@ -1,0 +1,9 @@
+[package]
+name = "split-optional"
+version = "1.0.0"
+edition = "2021"
+description = "It split from a source `str` to `Option<&'a str>` per an element."
+categories = ["rust-patterns"]
+keywords = ["str", "split", "optional", "string"]
+license = "MIT"
+repository = "https://github.com/usagi/split-optional"
